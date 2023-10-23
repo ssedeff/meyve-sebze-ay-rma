@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\bin\Debug\meyve-ayirma.exe.config
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\bin\Debug\meyve-ayirma.exe
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\bin\Debug\meyve-ayirma.pdb
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\obj\Debug\meyve-ayirma.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\obj\Debug\meyve-ayirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\obj\Debug\meyve_ayirma.form.resources
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\obj\Debug\meyve_ayirma.Properties.Resources.resources
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\obj\Debug\meyve-ayirma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\obj\Debug\meyve-ayirma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\obj\Debug\meyve-ayirma.exe
+C:\Users\User\source\repos\meyve-ayirma\meyve-ayirma\obj\Debug\meyve-ayirma.pdb
